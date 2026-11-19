@@ -1,4 +1,4 @@
-class Solution {
+class ProductOfArrayExceptSelf {
     public int[] productExceptSelf(int[] nums) {
 
         int n = nums.length;

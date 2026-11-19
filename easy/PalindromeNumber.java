@@ -1,4 +1,4 @@
-class Solution {
+class PalindromeNumber {
     public boolean isPalindrome(int x) {
 
         String s = String.valueOf(x);

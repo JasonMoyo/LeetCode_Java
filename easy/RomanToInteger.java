@@ -1,4 +1,4 @@
-class Solution {
+class RomanToInteger {
     public int romanToInt(String s) {
         int total = 0;
 

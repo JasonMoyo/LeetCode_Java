@@ -1,4 +1,4 @@
-class Solution {
+class LongestSubstringWithoutRepeatingCharacters {
     public int lengthOfLongestSubstring(String s) {
 
         int maxLength = 0;
